@@ -1,0 +1,35 @@
+.col {
+    margin: 1px;
+    padding: 45px;
+}
+
+.row{
+    position: relative;
+
+}
+
+
+@media (max-width: 575.98px) {
+.row{ 
+margin-left:190px;
+}
+}
+@media (max-width: 575.98px) {
+    .row-0{ 
+        margin-left:155px;
+        width:220px
+    }
+    }
+@media (max-width: 575.98px) {
+    .row-1{ 
+        margin-left:100px;
+        width:220px
+    }
+    }
+
+@media (max-width: 575.98px) {
+    .row2{ 
+    width:180px;
+    height:15px;
+    }
+    }
